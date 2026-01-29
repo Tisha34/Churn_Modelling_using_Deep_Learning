@@ -3,7 +3,7 @@
 🚀 This project predicts whether a customer will churn (leave) or stay, using an Artificial Neural Network (ANN) model.
 It covers the complete pipeline from data preprocessing → EDA → feature engineering → ANN model training → evaluation.
 
-📌 Project Overview
+📌 Project Overview: 
 Customer churn is one of the biggest challenges for subscription-based and service companies.
 This project uses Deep Learning (ANN) to classify customers into:
 ✅ Churn (1)
@@ -18,7 +18,7 @@ Helping businesses take preventive steps to improve retention.
 ✅ Model Evaluation using Accuracy & other metrics
 ✅ Prediction function for new customer data
 
-🧠 Tech Stack
+🧠 Tech Stack:
 Python
 Pandas, NumPy
 Matplotlib, Seaborn
